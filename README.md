@@ -22,7 +22,7 @@
 <h1 align="center">About me:</h1>
 
 <div align="center"> 
-I'm a 19 year old kid from anywhere you think I am, I am not very active as I have a life, but I know Python, Javascript, and Lua.
+I'm a 19 year old person from anywhere you think I am, I am not very active as I have a life, but I know Python, Javascript, and Lua.
 </p>
 <div align="center"> 
  🌎 | Languages Spoken: "All"
