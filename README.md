@@ -1,6 +1,6 @@
 <!-- ![Header](./header.png) -->
-![image](https://cdn.discordapp.com/attachments/1021334340543725568/1035954947063300216/log-animecloud.jpg)
-<div align="right">
+![image](https://cdn.discordapp.com/attachments/1021334340543725568/1035958104858312724/New_Project_20.png)
+<div align="center">
 
 </p>
 <div align="center">
