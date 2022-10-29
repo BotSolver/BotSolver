@@ -29,7 +29,7 @@ I'm a 19 year old person from anywhere you think I am, I am not very active as I
  <div align="center"> 
  💡| Interests: Going outside.
  <div align="center"> 
- 🧑🏽‍🎓 | Studying: Anything you think i am.
+ 🧑🏽‍🎓 | Studying: Anything you think I am.
  
  </p>
 Anyways I'd love to never speak to any of you, so yeah.
@@ -41,7 +41,7 @@ Cxmplement/Cxmplement is a `README.md` repository (this file) is viewed on my Gi
 <h1 align="center">Cxmplement's Github stats</h1>
 </p>
 <div align="center"> 
-Here's a showcase of what I've accomplished 
+Here's what I've done basically.
 <a href="https://github.com/Cxmplement"></a>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Cxmplement&theme=midnight-purple&show_icons=true" />
