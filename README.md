@@ -4,7 +4,7 @@
 
 </p>
 <div align="center">
-<h1 align="center">Welcome to Cxmplement's Github profile!</h1>
+<h1 align="center">Welcome to Basic Sellout's Github profile!</h1>
   I just do things tbh.
  <div align="center">
  Well read this if you want.
@@ -15,7 +15,7 @@
 <h1 align="center">How to Contact?</h1>
 <h align="center">- You can contact me never or just make an issue on a repo.
 </p>
-<h align="center">- You could also contact contact me on telegram: <a href="https://t.me/basicsellout/">Basic Sellout</a>
+<h align="center">- You could also contact contact me from my phone number: <a href="https://youareanidiot.cc">Basic Sellout</a>
 <h
 <div align="center"> 
 </p>
@@ -38,7 +38,7 @@ Anyways I'd love to never speak to any of you, so yeah.
 Cxmplement/Cxmplement is a `README.md` repository (this file) is viewed on my GitHub profile.
 --->
 
-<h1 align="center">Cxmplement's Github stats</h1>
+<h1 align="center">Basic Sellout's Github stats</h1>
 </p>
 <div align="center"> 
 Here's what I've done basically.
