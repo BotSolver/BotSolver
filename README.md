@@ -15,7 +15,7 @@
 <h1 align="center">How to Contact?</h1>
 <h align="center">- You can contact me never or just make an issue on a repo.
 </p>
-<h align="center">- You could also contact contact me from my phone number: <a href="https://youareanidiot.cc">Basic Sellout</a>
+<h align="center">- You could also contact contact me from my phone number: <a href="https://youareanidiot.cc">BotSolver</a>
 <h
 <div align="center"> 
 </p>
