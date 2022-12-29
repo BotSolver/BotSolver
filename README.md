@@ -4,7 +4,7 @@
 
 </p>
 <div align="center">
-<h1 align="center">Welcome to Basic Sellout's Github profile!</h1>
+<h1 align="center">Welcome to BotSolver's Github profile!</h1>
   I just do things tbh.
  <div align="center">
  Well read this if you want.
@@ -22,7 +22,7 @@
 <h1 align="center">About me:</h1>
 
 <div align="center"> 
-I'm a 19 year old person from anywhere you think I am, I am not very active as I have a life, but I know Python, Javascript, and Lua.
+I'm a 19 year old person from anywhere you think I am, I am not very active as I have a life, but I know Python, Javascript, C#, C++. C, HTML, CSS, PHP, and Lua.
 </p>
 <div align="center"> 
  🌎 | Languages Spoken: "All"
@@ -35,19 +35,19 @@ I'm a 19 year old person from anywhere you think I am, I am not very active as I
 Anyways I'd love to never speak to any of you, so yeah.
 
 <!---
-Cxmplement/Cxmplement is a `README.md` repository (this file) is viewed on my GitHub profile.
+BotSolver/BotSolver is a `README.md` repository (this file) is viewed on my GitHub profile.
 --->
 
-<h1 align="center">Basic Sellout's Github stats</h1>
+<h1 align="center">BotSolver's Github stats</h1>
 </p>
 <div align="center"> 
 Here's what I've done basically.
-<a href="https://github.com/Cxmplement"></a>
+<a href="https://github.com/BotSolver"></a>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=basicsellout&theme=midnight-purple&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=botsolver&theme=midnight-purple&show_icons=true" />
 </p>
 
-<!-- ![zens's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cxmplement&theme=midnight-purple&show_icons=true)
+<!-- ![BotSolver's GitHub stats](https://github-readme-stats.vercel.app/api?username=botsolver&theme=midnight-purple&show_icons=true)
  -->
 
 
