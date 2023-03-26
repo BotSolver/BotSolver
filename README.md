@@ -1,5 +1,5 @@
 <!-- ![Header](./header.png) -->
-![image](https://cdn.discordapp.com/attachments/1021334340543725568/1035954947063300216/log-animecloud.jpg)
+![image](https://cdn.discordapp.com/attachments/1020474639874539560/1089590943688175626/Screenshot_2023-02-26_233006.png)
 <div align="center">
 
 </p>
