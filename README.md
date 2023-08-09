@@ -44,6 +44,7 @@ BotSolver/BotSolver is a `README.md` repository (this file) is viewed on my GitH
 Here's what I've done basically.
 <a href="https://github.com/BotSolver"></a>
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=botsolver&repo=bettermint" />
   <img src="https://github-readme-stats.vercel.app/api?username=botsolver&theme=midnight-purple&show_icons=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=botsolver&layout=compact" />
 </p>
