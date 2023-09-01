@@ -36,14 +36,14 @@
 
 <p align="center">
   <a href="https://github.com/BotSolver">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=botsolver&repo=bettermint" alt="Bettermint Repository">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=botsolver&layout=compact" alt="Top Languages">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=botsolver&theme=midnight-purple&show_icons=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=botsolver&repo=bettermint" alt="Bettermint Repository">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=botsolver&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=botsolver&theme=midnight-purple&show_icons=true" alt="GitHub Stats">
 </p>
