@@ -1,5 +1,5 @@
 <!-- ![Header](./header.png) -->
-![image](https://cdn.discordapp.com/attachments/1020474639874539560/1089590943688175626/Screenshot_2023-02-26_233006.png)
+![image](https://cdn.discordapp.com/attachments/1098267852689129514/1147081672718815313/1-background.png)
                                                              <div align="right">
 
 </p>
