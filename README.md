@@ -1,56 +1,49 @@
-<!-- ![Header](./header.png) -->
-![image](https://cdn.discordapp.com/attachments/1098267852689129514/1147081672718815313/1-background.png)
-                                                             <div align="right">
-
-</p>
-<div align="center">
-<h1 align="center">Welcome to BotSolver's Github profile!</h1>
-  I just do things tbh.
- <div align="center">
- Well read this if you want.
-</p>
-<div align="center">
-
-<div align="center"> 
-<h1 align="center">How to Contact?</h1>
-<h align="center">- You can contact me never or just make an issue on a repo.
-</p>
-<h align="center">- You could also contact contact me from my phone number: <a href="https://kekma.net">BotSolver</a>
-<h
-<div align="center"> 
-</p>
-<h1 align="center">About me:</h1>
-
-<div align="center"> 
-I'm a 19 year old person from anywhere you think I am, I am not very active as I have a life, but I know Python, Javascript, C#, C++. C, HTML, CSS, PHP, and Lua.
-</p>
-<div align="center"> 
- 🌎 | Languages Spoken: "All"
- <div align="center"> 
- 💡| Interests: Going outside.
- <div align="center"> 
- 🧑🏽‍🎓 | Studying: Anything you think I am.
- 
- </p>
-Anyways I'd love to never speak to any of you, so yeah.
-
-<!---
-BotSolver/BotSolver is a `README.md` repository (this file) is viewed on my GitHub profile.
---->
-
-<h1 align="center">BotSolver's Github stats</h1>
-</p>
-<div align="center"> 
-Here's what I've done basically.
-<a href="https://github.com/BotSolver"></a>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=botsolver&repo=bettermint" />
-  <img src="https://github-readme-stats.vercel.app/api?username=botsolver&theme=midnight-purple&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=botsolver&layout=compact" />
+  <img src="https://cdn.discordapp.com/attachments/1098267852689129514/1147081672718815313/1-background.png" alt="Banner Image">
 </p>
 
-<!-- ![BotSolver's GitHub stats](https://github-readme-stats.vercel.app/api?username=botsolver&theme=midnight-purple&show_icons=true)
- -->
+<h1 align="center">Welcome to BotSolver's GitHub Profile!</h1>
 
+<p align="center">I just do things, to be honest.</p>
 
-<!-- ![Footer](./footer.png) -->
+<p align="center">Well, read this if you want.</p>
+
+<h2 align="center">How to Contact?</h2>
+
+<p align="center">
+  - You can contact me never or just create an issue on one of my repositories.
+</p>
+
+<p align="center">
+  - You could also contact me via my phone number: <a href="https://kekma.net">BotSolver</a>
+</p>
+
+<h2 align="center">About Me:</h2>
+
+<p align="center">I'm a 19-year-old person from somewhere (I'm not very active as I have a life), but I know Python, JavaScript, C#, C++, C, HTML, CSS, PHP, and Lua.</p>
+
+<p align="center">🌎 | Languages Spoken: "All"</p>
+
+<p align="center">💡 | Interests: Going outside.</p>
+
+<p align="center">🧑🏽‍🎓 | Studying: Anything you think I am.</p>
+
+<p align="center">Anyways, I'd love to never speak to any of you, so yeah.</p>
+
+<h1 align="center">BotSolver's GitHub Stats</h1>
+
+<p align="center">Here's what I've done, basically:</p>
+
+<p align="center">
+  <a href="https://github.com/BotSolver">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=botsolver&repo=bettermint" alt="Bettermint Repository">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=botsolver&theme=midnight-purple&show_icons=true" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=botsolver&layout=compact" alt="Top Languages">
+</p>
