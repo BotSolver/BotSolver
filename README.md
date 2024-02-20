@@ -46,6 +46,11 @@
 <p align="center">Behold, the mystical artifacts of my GitHub journey:</p>
 <h2 align="center">Statistics 📊</h2>
 <p align="center" width="100%">
+  <p align="center">
+  <a href="https://github.com/botsolver/bettermint">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=botsolver&repo=bettermint" alt="Bettermint Repository">
+  </a>
+</p>
     <img width="45%" src="https://github-readme-stats.vercel.app/api?username=BotSolver&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
     <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=BotSolver&theme=dark&hide_border=false">
     <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BotSolver&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
