@@ -48,7 +48,7 @@
 <p align="center" width="100%">
   <p align="center">
   <a href="https://github.com/botsolver/bettermint">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=botsolver&repo=bettermint" alt="Bettermint Repository">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=botsolver&theme=dark&repo=bettermint" alt="Bettermint Repository">
   </a>
 </p>
     <img width="45%" src="https://github-readme-stats.vercel.app/api?username=BotSolver&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
