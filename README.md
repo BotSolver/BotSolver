@@ -44,19 +44,10 @@
 <h1 align="center">🔮 BotSolver's GitHub Realm 🔮</h1>
 
 <p align="center">Behold, the mystical artifacts of my GitHub journey:</p>
-
-<p align="center">
-  <a href="https://github.com/BotSolver">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=botsolver&layout=compact" alt="Top Languages">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/botsolver/bettermint">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=botsolver&repo=bettermint" alt="Bettermint Repository">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=botsolver&theme=midnight-purple&show_icons=true" alt="GitHub Stats">
+<h2 align="center">Statistics 📊</h2>
+<p align="center" width="100%">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=BotSolver&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
+    <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=BotSolver&theme=dark&hide_border=false">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BotSolver&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+    <img width="45%" src="https://github-contributor-stats.vercel.app/api?username=BotSolver&limit=5&theme=dark&combine_all_yearly_contributions=true">
 </p>
