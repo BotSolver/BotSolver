@@ -1,3 +1,5 @@
+<p align="center"><img align="center" src="https://visitcount.itsvg.in/api?id=BotSolver&icon=7&color=12"/></p>
+
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1098267852689129514/1147081672718815313/1-background.png" alt="Banner Image">
 </p>
